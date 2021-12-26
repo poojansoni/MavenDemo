@@ -10,5 +10,6 @@ public class AppTest {
   public void shouldAnswerWithTrue() {
     assertTrue(true);
     System.out.println("branchA is createds");
+    System.out.println("branchB is creatededs");
   }
 }
